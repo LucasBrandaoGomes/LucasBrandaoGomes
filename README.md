@@ -2,9 +2,9 @@
 
 * :mortar_board: Sou Engenheiro Químico de formação
 * :tomato: Já me aventurei na gastronomia, padeiro e confeiteiro
-* :bulb: Aspirante de Dev Full Stack - DRIVEN
-* :bulb: Buscando me especializar na área de Engenharia de Dados
-* :green_book: Estudando Python, processos ETL, clouding, e o que vier
+* :bulb: Dev Full Stack - DRIVEN
+* :bulb: Buscando trabalhar como desenvolvedor WEB
+* :green_book: Futuramente pretendo integrar conhecimento da área de dados e desenvolvimento
 * :e-mail: Fique à vontade para entrar em contato: brandslucas@gmail.com ou https://www.linkedin.com/in/lucas-brandao-gomes
 
 <div align="center">
