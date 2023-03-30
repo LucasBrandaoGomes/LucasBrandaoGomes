@@ -2,8 +2,9 @@
 
 * :mortar_board: Sou Engenheiro Químico de formação
 * :tomato: Já me aventurei na gastronomia, padeiro e confeiteiro
-* :bulb: Dev Full Stack - DRIVEN
-* :bulb: Buscando trabalhar como desenvolvedor WEB
+* :bulb: Dev Full Stack - DRIVEN - 1200h
+* :bulb: Eng de Dados ( Python, Google CLoud Platform ) - SoulCode Academy - 460h 
+* :bulb: Buscando trabalhar como desenvolvedor WEB - NodeJS | React | TS | Tests
 * :green_book: Futuramente pretendo integrar conhecimento da área de dados e desenvolvimento
 * :e-mail: Fique à vontade para entrar em contato: brandslucas@gmail.com ou https://www.linkedin.com/in/lucas-brandao-gomes
 
